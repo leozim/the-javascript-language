@@ -20,3 +20,5 @@ const randomNumber = () => Number(Math.random().toFixed(2));
 const number = randomNumber();
 console.log(`My random number is ${number}`);
 console.log(number + 3);
+
+/* FUNCTION CALING OTHER FUNCTIONS */
